@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "The Lord of the Rings",
+    "desc": "The Lord of the Rings is an epic high-fantasy novel written by English author and scholar J. R. R. Tolkien.",
+    "body": "The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work.",
+    "author": "J. R. R. Tolkien",
+    "added": "2021-01-01",
+    "updated": "2021-01-01"
+  },
+  {
+    "id": 2,
+    "title": "The Hobbit",
+    "desc": "The Hobbit is a children's fantasy novel by English author J. R. R. Tolkien.",
+    "body": "The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work.",
+    "author": "J. R. R. Tolkien",
+    "added": "2021-01-01",
+    "updated": "2021-01-01"
+  }
+]
